@@ -1,3 +1,9 @@
-# MDC-103 for Material Components for Android (Java)
-
-Contains starter code structure for the MDC-103 Java codelab.
+# SHRINE
+This is an extension of a codelab on MDC, its good for practising material design guidelines including:
+-Typograpghy
+-Color
+-Shape
+-Iconography
+## Volley
+A library used to display images.
+We have used it here to display different products that a person can purchase
